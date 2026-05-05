@@ -1,8 +1,8 @@
 # Spotify Song Feature Case Study
 This repository contains all materials needed to complete a case study on time series analysis of song feature data. 
 
-## Repository Structure
-The PDFs "CS3_hook.pdf" and "CS3_rubric.pdf" contain important information regarding the case study, including relevant context and how to pass specs for this case study.
+## Notes
+The PDFs "CS3_hook.pdf" and "CS3_rubric.pdf" contain important information, including relevant context, how to pass specs, and the deliverable for this case study.
 
 The MATERIALS folder contains all the necessary data and scripts to complete the case study. 
 
